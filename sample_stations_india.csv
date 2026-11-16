@@ -1,0 +1,15 @@
+name,address,city,state,pincode,latitude,longitude,connector_type,charging_speed_kw
+"[SAMPLE] Connaught Place Fast Hub","Block B, Outer Circle, Connaught Place",New Delhi,Delhi,110001,28.6328,77.2197,CCS2,120
+"[SAMPLE] Cyber City Tech Park Charger","DLF Cyber City, Phase 2, Sector 24",Gurugram,Haryana,122002,28.4950,77.0895,CCS2,60
+"[SAMPLE] Aerocity EV Terminal","Hospitality District, IGI Airport",New Delhi,Delhi,110037,28.5502,77.1205,Type 2,22
+"[SAMPLE] Bandra Kurla Complex Supercharger","G Block, BKC, Bandra East",Mumbai,Maharashtra,400051,19.0657,72.8687,CCS2,150
+"[SAMPLE] Marine Drive Public Charging Bay","Netaji Subhash Chandra Bose Road",Mumbai,Maharashtra,400020,18.9322,72.8264,Bharat DC-001,30
+"[SAMPLE] Hinjewadi IT Park Fast Hub","Phase 1, Rajiv Gandhi Infotech Park",Pune,Maharashtra,411057,18.5913,73.7389,CCS2,60
+"[SAMPLE] Indiranagar Metro EV Point","100 Feet Road, HAL 2nd Stage",Bengaluru,Karnataka,560038,12.9784,77.6408,CCS2,120
+"[SAMPLE] Electronic City Highway Hub","Hosur Road, Electronic City",Bengaluru,Karnataka,560100,12.8452,77.6602,CHAdeMO,50
+"[SAMPLE] HITEC City Cyber Towers Hub","Hitech City Main Road, Madhapur",Hyderabad,Telangana,500081,17.4504,78.3808,CCS2,100
+"[SAMPLE] OMR IT Corridor Station","Rajiv Gandhi Salai, Thoraipakkam",Chennai,Tamil Nadu,600097,12.9348,80.2312,CCS2,90
+"[SAMPLE] SG Highway Fast Charger","Sarkhej - Gandhinagar Highway",Ahmedabad,Gujarat,380054,23.0451,72.5085,CCS2,120
+"[SAMPLE] MI Road Heritage Charger","Mirza Ismail Road, Jayanti Market",Jaipur,Rajasthan,302001,26.9168,75.8034,CCS2,50
+"[SAMPLE] Salt Lake Sector V Tech Point","Ring Road, Sector V, Bidhannagar",Kolkata,West Bengal,700091,22.5804,88.4378,CCS2,60
+"[SAMPLE] Kochi MG Road Metro Point","MG Road, Ernakulam South",Kochi,Kerala,682016,9.9674,76.2842,CCS2,60
